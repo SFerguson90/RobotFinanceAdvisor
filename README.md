@@ -10,3 +10,5 @@ This program works by creating Python code to AWS Lex, which is read into a Chat
 
 ### What are it's future implications?
 The future implications are that, this RoboAdvisor could be used in conjunction with a Personal Financial Planner to better choose portfolios or even stocks for clients. As I once heard, "Machine learning won't replace professionals completely, but it will replace the ones who don't or choose not to use it." This RoboAdvisor will help to bring in more clients and process customers quicker, improving revenue and growth for finance companies in the future.
+
+![happyRobot](https://digital.hbs.edu/platform-rctom/wp-content/uploads/sites/4/2018/11/investorjunkie-robo-advisors-4-1.jpg)
